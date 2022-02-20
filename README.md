@@ -32,8 +32,8 @@ Export the wireframe
 ## OUTPUT:
 include your output screenshots 
 
-![output](./EX06.jpeg)
-![output](./EX06 2.jpeg)
-![output](./Ex 06 3.jpeg)
+![output](./1.jpeg)
+![output](./2.jpeg)
+![output](./3.jpeg)
 ## Result:
 Thus a wire frame is designed for a given website.
